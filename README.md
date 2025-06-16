@@ -49,9 +49,6 @@ This repository includes the following files:
 
 The data is sourced from [this Kaggle dataset](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices).
 
-## Contact
-
-For any queries or comments, please reach out to levgiorg@gmail.com
 
 ## Disclaimer
 
